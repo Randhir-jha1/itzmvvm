@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitClient {
 
-    private static final String BASE_URL = "http://1.6.10.113/approve_api/webservices/index.php/";
+    private static final String BASE_URL = "YOUR_URL";
     private static RetrofitClient mInstance;
     private Retrofit retrofit;
 
